@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "frontiermilitary:block/map_table"
+    },
+    "facing=east": {
+      "model": "frontiermilitary:block/map_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "frontiermilitary:block/map_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "frontiermilitary:block/map_table",
+      "y": 270
+    }
+  }
+}

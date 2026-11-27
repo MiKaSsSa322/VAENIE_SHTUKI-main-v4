@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "frontiermilitary:block/radio_station"
+    },
+    "facing=east": {
+      "model": "frontiermilitary:block/radio_station",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "frontiermilitary:block/radio_station",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "frontiermilitary:block/radio_station",
+      "y": 270
+    }
+  }
+}
