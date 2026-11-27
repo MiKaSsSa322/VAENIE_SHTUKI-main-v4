@@ -1,0 +1,36 @@
+{
+ "firstperson_righthand": {
+  "rotation": [
+   12.862,
+   30.596,
+   -2.0
+  ],
+  "translation": [
+   -2.16,
+   2.172,
+   -8.0
+  ],
+  "scale": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "firstperson_lefthand": {
+  "rotation": [
+   12.862,
+   -30.596,
+   2.0
+  ],
+  "translation": [
+   2.16,
+   2.172,
+   -8.0
+  ],
+  "scale": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ }
+}

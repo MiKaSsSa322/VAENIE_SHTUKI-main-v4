@@ -1,0 +1,74 @@
+{
+ "pistol": {
+  "firstperson_righthand": {
+   "rotation": [
+    15.29,
+    10.878,
+    -2.0
+   ],
+   "translation": [
+    -2.988,
+    3.163,
+    -4.0
+   ],
+   "scale": [
+    0.8,
+    0.8,
+    0.8
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    15.29,
+    -10.878,
+    2.0
+   ],
+   "translation": [
+    2.988,
+    3.163,
+    -4.0
+   ],
+   "scale": [
+    0.8,
+    0.8,
+    0.8
+   ]
+  }
+ },
+ "ak74": {
+  "firstperson_righthand": {
+   "rotation": [
+    15.837,
+    20.354,
+    -2.0
+   ],
+   "translation": [
+    -3.937,
+    2.838,
+    -9.0
+   ],
+   "scale": [
+    0.62,
+    0.62,
+    0.62
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    15.837,
+    -20.354,
+    2.0
+   ],
+   "translation": [
+    3.937,
+    2.838,
+    -9.0
+   ],
+   "scale": [
+    0.62,
+    0.62,
+    0.62
+   ]
+  }
+ }
+}
