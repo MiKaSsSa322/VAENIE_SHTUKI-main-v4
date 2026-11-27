@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "F F",
+    "FIF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "frontiermilitary:reinforced_fiber"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "frontiermilitary:plate_carrier",
+    "count": 1
+  }
+}

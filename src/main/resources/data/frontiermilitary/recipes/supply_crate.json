@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PPP",
+    "PFP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "F": {
+      "item": "frontiermilitary:field_ration"
+    }
+  },
+  "result": {
+    "item": "frontiermilitary:supply_crate",
+    "count": 1
+  }
+}

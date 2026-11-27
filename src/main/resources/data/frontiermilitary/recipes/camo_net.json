@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "FVF",
+    "VFV",
+    "FVF"
+  ],
+  "key": {
+    "F": {
+      "item": "frontiermilitary:reinforced_fiber"
+    },
+    "V": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "frontiermilitary:camo_net",
+    "count": 4
+  }
+}

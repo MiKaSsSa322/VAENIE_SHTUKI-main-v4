@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "F F",
+    "V V"
+  ],
+  "key": {
+    "F": {
+      "item": "frontiermilitary:reinforced_fiber"
+    },
+    "V": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "frontiermilitary:ghillie_wraps",
+    "count": 1
+  }
+}

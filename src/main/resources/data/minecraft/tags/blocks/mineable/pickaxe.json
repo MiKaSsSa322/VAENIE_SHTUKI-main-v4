@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "frontiermilitary:metal_fence",
+    "frontiermilitary:security_bars",
+    "frontiermilitary:concrete_barrier",
+    "frontiermilitary:watch_post_lamp",
+    "frontiermilitary:hesco_barrier",
+    "frontiermilitary:bunker_concrete",
+    "frontiermilitary:steel_hull_plate",
+    "frontiermilitary:camo_concrete",
+    "frontiermilitary:radio_station",
+    "frontiermilitary:field_generator",
+    "frontiermilitary:floodlight",
+    "frontiermilitary:tank_trap",
+    "frontiermilitary:steel_grating",
+    "frontiermilitary:fuel_drum",
+    "frontiermilitary:razor_wire",
+    "frontiermilitary:warning_sign"
+  ]
+}

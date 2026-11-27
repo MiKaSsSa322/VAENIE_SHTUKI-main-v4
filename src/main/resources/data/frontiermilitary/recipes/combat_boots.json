@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "F F",
+    "F F"
+  ],
+  "key": {
+    "F": {
+      "item": "frontiermilitary:reinforced_fiber"
+    }
+  },
+  "result": {
+    "item": "frontiermilitary:combat_boots",
+    "count": 1
+  }
+}

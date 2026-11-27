@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "frontiermilitary:sandbag_block"
+    }
+  },
+  "result": {
+    "item": "frontiermilitary:sandbag_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "NCN",
+    "CCC",
+    "NCN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "item": "minecraft:gray_concrete"
+    }
+  },
+  "result": {
+    "item": "frontiermilitary:bunker_concrete",
+    "count": 4
+  }
+}

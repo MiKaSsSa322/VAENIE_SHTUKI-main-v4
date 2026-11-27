@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "FVF",
+    "F F"
+  ],
+  "key": {
+    "F": {
+      "item": "frontiermilitary:reinforced_fiber"
+    },
+    "V": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "frontiermilitary:ghillie_hood",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "frontiermilitary:ammo_crate",
+    "frontiermilitary:supply_crate",
+    "frontiermilitary:map_table"
+  ]
+}

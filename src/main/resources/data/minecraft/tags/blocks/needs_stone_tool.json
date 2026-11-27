@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "frontiermilitary:metal_fence",
+    "frontiermilitary:security_bars",
+    "frontiermilitary:concrete_barrier",
+    "frontiermilitary:watch_post_lamp",
+    "frontiermilitary:bunker_concrete",
+    "frontiermilitary:steel_hull_plate",
+    "frontiermilitary:tank_trap",
+    "frontiermilitary:camo_concrete"
+  ]
+}
