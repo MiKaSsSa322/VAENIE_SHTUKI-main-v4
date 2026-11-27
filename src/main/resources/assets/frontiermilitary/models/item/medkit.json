@@ -1,0 +1,50 @@
+{
+ "parent": "minecraft:item/generated",
+ "textures": {
+  "layer0": "frontiermilitary:item/medkit"
+ },
+ "overrides": [
+  {
+   "predicate": {
+    "frontiermilitary:med_state": 100
+   },
+   "model": "frontiermilitary:item/medkit/use_0"
+  },
+  {
+   "predicate": {
+    "frontiermilitary:med_state": 101
+   },
+   "model": "frontiermilitary:item/medkit/use_1"
+  },
+  {
+   "predicate": {
+    "frontiermilitary:med_state": 102
+   },
+   "model": "frontiermilitary:item/medkit/use_2"
+  },
+  {
+   "predicate": {
+    "frontiermilitary:med_state": 103
+   },
+   "model": "frontiermilitary:item/medkit/use_3"
+  },
+  {
+   "predicate": {
+    "frontiermilitary:med_state": 104
+   },
+   "model": "frontiermilitary:item/medkit/use_4"
+  },
+  {
+   "predicate": {
+    "frontiermilitary:med_state": 105
+   },
+   "model": "frontiermilitary:item/medkit/use_5"
+  },
+  {
+   "predicate": {
+    "frontiermilitary:med_state": 106
+   },
+   "model": "frontiermilitary:item/medkit/use_6"
+  }
+ ]
+}
