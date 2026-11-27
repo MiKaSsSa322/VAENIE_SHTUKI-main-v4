@@ -1,0 +1,192 @@
+{
+  "item.pistol.shot": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:pistol_shot_1",
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "frontiermilitary:pistol_shot_2",
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "frontiermilitary:pistol_shot_3",
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_shot"
+  },
+  "item.pistol.dry": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:pistol_dry",
+        "volume": 0.8,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_dry"
+  },
+  "item.pistol.mag_out": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:mag_out",
+        "volume": 0.8,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_reload"
+  },
+  "item.pistol.mag_in": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:mag_in",
+        "volume": 0.8,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_reload"
+  },
+  "item.pistol.slide_back": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:slide_back",
+        "volume": 0.8,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_reload"
+  },
+  "item.pistol.slide_forward": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:slide_forward",
+        "volume": 0.9,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_reload"
+  },
+  "item.rifle.shot": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:rifle_shot_1",
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "frontiermilitary:rifle_shot_2",
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "frontiermilitary:rifle_shot_3",
+        "volume": 1.0,
+        "attenuation_distance": 96
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.rifle_shot"
+  },
+  "item.medkit.rip": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:medkit_rip",
+        "volume": 0.8,
+        "attenuation_distance": 12
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.medkit"
+  },
+  "item.medkit.done": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:medkit_done",
+        "volume": 0.8,
+        "attenuation_distance": 12
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.medkit"
+  },
+  "block.generator.pull": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:generator_pull",
+        "volume": 0.9,
+        "attenuation_distance": 24
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.generator_pull"
+  },
+  "block.generator.start": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:generator_start",
+        "volume": 1.0,
+        "attenuation_distance": 40
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.generator_start"
+  },
+  "block.generator.run": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:generator_run",
+        "volume": 0.6,
+        "attenuation_distance": 24
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.generator_run"
+  },
+  "item.sniper.shot": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:sniper_shot_1",
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "frontiermilitary:sniper_shot_2",
+        "volume": 1.0,
+        "attenuation_distance": 128
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.sniper_shot"
+  },
+  "item.shotgun.shot": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:shotgun_shot_1",
+        "volume": 1.0,
+        "attenuation_distance": 80
+      },
+      {
+        "name": "frontiermilitary:shotgun_shot_2",
+        "volume": 1.0,
+        "attenuation_distance": 80
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.shotgun_shot"
+  },
+  "item.shotgun.pump": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:shotgun_pump",
+        "volume": 0.9,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.shotgun_pump"
+  },
+  "item.shotgun.shell": {
+    "sounds": [
+      {
+        "name": "frontiermilitary:shell_in",
+        "volume": 0.8,
+        "attenuation_distance": 16
+      }
+    ],
+    "subtitle": "subtitles.frontiermilitary.pistol_reload"
+  }
+}
