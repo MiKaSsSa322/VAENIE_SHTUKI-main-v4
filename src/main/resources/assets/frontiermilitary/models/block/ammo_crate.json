@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "frontiermilitary:block/ammo_crate_top",
+    "bottom": "frontiermilitary:block/ammo_crate_top",
+    "side": "frontiermilitary:block/ammo_crate_side"
+  }
+}

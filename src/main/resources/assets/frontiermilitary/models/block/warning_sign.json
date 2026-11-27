@@ -1,0 +1,127 @@
+{
+  "textures": {
+    "f": "frontiermilitary:block/warning_sign",
+    "b": "frontiermilitary:block/warning_sign_back",
+    "particle": "frontiermilitary:block/warning_sign_back"
+  },
+  "elements": [
+    {
+      "from": [
+        7.5,
+        0,
+        8
+      ],
+      "to": [
+        8.5,
+        6,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            1,
+            6
+          ],
+          "texture": "#b"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1,
+            6
+          ],
+          "texture": "#b"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            1,
+            6
+          ],
+          "texture": "#b"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            1,
+            6
+          ],
+          "texture": "#b"
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        6,
+        7
+      ],
+      "to": [
+        13,
+        16,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#f"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#b"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1,
+            10
+          ],
+          "texture": "#b"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            1,
+            10
+          ],
+          "texture": "#b"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            10,
+            1
+          ],
+          "texture": "#b"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            10,
+            1
+          ],
+          "texture": "#b"
+        }
+      }
+    }
+  ]
+}

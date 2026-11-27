@@ -1,0 +1,76 @@
+{
+  "textures": {
+    "t": "frontiermilitary:block/power_cable",
+    "particle": "frontiermilitary:block/power_cable"
+  },
+  "elements": [
+    {
+      "from": [
+        6.5,
+        6.5,
+        6.5
+      ],
+      "to": [
+        9.5,
+        9.5,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            6.5,
+            3,
+            9.5
+          ],
+          "texture": "#t"
+        },
+        "east": {
+          "uv": [
+            0,
+            6.5,
+            3,
+            9.5
+          ],
+          "texture": "#t"
+        },
+        "south": {
+          "uv": [
+            0,
+            6.5,
+            3,
+            9.5
+          ],
+          "texture": "#t"
+        },
+        "west": {
+          "uv": [
+            0,
+            6.5,
+            3,
+            9.5
+          ],
+          "texture": "#t"
+        },
+        "up": {
+          "uv": [
+            0,
+            6.5,
+            3,
+            9.5
+          ],
+          "texture": "#t"
+        },
+        "down": {
+          "uv": [
+            0,
+            6.5,
+            3,
+            9.5
+          ],
+          "texture": "#t"
+        }
+      }
+    }
+  ]
+}

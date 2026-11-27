@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "frontiermilitary:block/steel_hull_plate"
+  }
+}
